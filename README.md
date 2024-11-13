@@ -59,7 +59,7 @@ Based on the Analysis, we recommend the following actions:
 
 
 ### Limitations
-The data consisted of some spelling mistakes in the region section, so I had to replace the spellings and have a specific order to it. The data consisted of few records having no values, so we dropped those records. We need to calculate the sales based on Quantity and Price given.
+As the Data was from a business that was recently started and only consisted of Data around a year, so analyzing it properly was also a challenge. The data consisted of some spelling mistakes in the region section, so I had to replace the spellings and have a specific order to it. The data consisted of few records having no values, so we dropped those records. We need to calculate the sales based on Quantity and Price given.
 
 
 ### Refferences
