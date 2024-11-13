@@ -12,8 +12,11 @@
 - Limitations
 - Refferences
 
+  
+
 
 ### Project Overview
+---
 This Data Analysis Project aims to provide insights into the sales performance of an electronics company over past years. We have also used slicers and timeline to filter out the data to increae User interactivity with our dashboard. Our report consists of four pages:
 - Dashboard Home Page
 - Salesman Page
@@ -28,15 +31,18 @@ There is a link created so that you can navigate frome one page to another by cl
 ![HomePage](https://github.com/user-attachments/assets/f6bac9af-d4c6-4990-8426-3ccda89983ca)
 
 ### Data Sources
+---
 Sales Data: The primary dataset used for this analysis is the 'Sales_ExcelData.xlsx" file, containing detailed information about each sales made by the company.
 
 
 ### Tools Used
+---
 - Excel - Data Cleaning/Data Analysis/ Creating Reports
     -  [Download Here](https://microsoft.com)
 
 
 ### Data Cleaning/Preparation
+---
 In the initial Data Preparation phase, we performed the following task:
 1. Data Loading and Inspection.
 2. Handling Missing values.
@@ -44,6 +50,7 @@ In the initial Data Preparation phase, we performed the following task:
 
 
 ### Exploratory Data Analysis
+---
 EDA involved exploring the sales data to answer few questions such as:
 - What is the overall Sales Trend?
   ![SalesTrend](https://github.com/user-attachments/assets/02fffa8b-6f64-48d4-a557-d0629b16cb9a)
@@ -133,6 +140,7 @@ EDA involved exploring the sales data to answer few questions such as:
 ![Bottom3Salesman](https://github.com/user-attachments/assets/c12b924b-1aea-44a9-92c3-48e4f1e96cbe)
 
 ### Results/Findings
+---
 The analysis results are summarized as follows:
 1. The Company's sales increases at the end of the year and starting of the year.
 2. Printer is the best selling product.
@@ -140,16 +148,19 @@ The analysis results are summarized as follows:
 
 
 ### Recommendations
+---
 Based on the Analysis, we recommend the following actions:
 - Try to build good Customer relations as the business is new, and we can see a pattern of increasing and decreasing of sales over specific periods.
 -  Implement some strategies such as discounts, % of price off so that you can have more sales.
 
 
 ### Limitations
+---
 As the Data was from a business that was recently started and only consisted of Data around a year, so analyzing it properly was also a challenge. The data consisted of some spelling mistakes in the region section, so I had to replace the spellings and have a specific order to it. The data consisted of few records having no values, so we dropped those records. We need to calculate the sales based on Quantity and Price given.
 
 
 ### Refferences
+---
 - [Stack Overflow](https://stack.com)
 
 
