@@ -46,14 +46,95 @@ In the initial Data Preparation phase, we performed the following task:
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer few questions such as:
 - What is the overall Sales Trend?
-- What are the top selling and bottom selling products?
-- What is the Overall Sales based on different regions?
-- Who are the top and bottom salesman according to sales?
+  ![SalesTrend](https://github.com/user-attachments/assets/02fffa8b-6f64-48d4-a557-d0629b16cb9a)
 
+
+
+
+
+
+
+
+
+
+- What are the top selling and bottom selling products?
+
+
+
+
+
+
+
+ ![Top3Products](https://github.com/user-attachments/assets/37888d18-fa01-448d-9bf1-bef8bd9d4990)
+
+
+
+
+
+
+
+
+ 
+ ![Bottom3Products](https://github.com/user-attachments/assets/43d7a186-41d0-4bb9-9adc-08dbfc165331)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- What is the Overall Sales based on different regions?
+  
+
+
+
+
+
+
+
+  ![SalesByRegion](https://github.com/user-attachments/assets/b3dc393d-b4e1-4065-aff8-7f7a73884eaf)
+
+
+
+
+
+
+
+
+
+
+- Who are the top and bottom salesman according to sales?
+  
+
+
+
+
+
+
+
+![Top3Salesman](https://github.com/user-attachments/assets/3a051321-3d43-4d93-b067-7de86338cd6e)
+
+
+
+
+
+
+
+
+
+![Bottom3Salesman](https://github.com/user-attachments/assets/c12b924b-1aea-44a9-92c3-48e4f1e96cbe)
 
 ### Results/Findings
 The analysis results are summarized as follows:
-1. The Company's sales gets increased over a short period of time and then declines.
+1. The Company's sales increases at the end of the year and starting of the year.
 2. Printer is the best selling product.
 3. Most Sales are done in the East Region.
 
