@@ -14,12 +14,18 @@
 
 
 ### Project Overview
-This Data Analysis Project aims to provide insights into the sales performance of an electronics company over past years. Our report consists of four pages:
+This Data Analysis Project aims to provide insights into the sales performance of an electronics company over past years. We have also used slicers and timeline to filter out the data to increae User interactivity with our dashboard. Our report consists of four pages:
 - Dashboard Home Page
 - Salesman Page
 - Products Page
 - About Me Page
 
+
+There is a link created so that you can navigate frome one page to another by clicking on either Dashboard, Salesman, Product and About Me to navigate to these pages.
+
+  
+
+![HomePage](https://github.com/user-attachments/assets/f6bac9af-d4c6-4990-8426-3ccda89983ca)
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the 'Sales_ExcelData.xlsx" file, containing detailed information about each sales made by the company.
