@@ -72,7 +72,7 @@ EDA involved exploring the sales data to answer few questions such as:
 
 
 
- ![Top3Products](https://github.com/user-attachments/assets/37888d18-fa01-448d-9bf1-bef8bd9d4990)
+   ![Top3Products](https://github.com/user-attachments/assets/37888d18-fa01-448d-9bf1-bef8bd9d4990)
 
 
 
@@ -82,7 +82,7 @@ EDA involved exploring the sales data to answer few questions such as:
 
 
  
- ![Bottom3Products](https://github.com/user-attachments/assets/43d7a186-41d0-4bb9-9adc-08dbfc165331)
+   ![Bottom3Products](https://github.com/user-attachments/assets/43d7a186-41d0-4bb9-9adc-08dbfc165331)
 
 
 
@@ -107,7 +107,7 @@ EDA involved exploring the sales data to answer few questions such as:
 
 
 
-  ![SalesByRegion](https://github.com/user-attachments/assets/b3dc393d-b4e1-4065-aff8-7f7a73884eaf)
+    ![SalesByRegion](https://github.com/user-attachments/assets/b3dc393d-b4e1-4065-aff8-7f7a73884eaf)
 
 
 
@@ -127,7 +127,7 @@ EDA involved exploring the sales data to answer few questions such as:
 
 
 
-![Top3Salesman](https://github.com/user-attachments/assets/3a051321-3d43-4d93-b067-7de86338cd6e)
+  ![Top3Salesman](https://github.com/user-attachments/assets/3a051321-3d43-4d93-b067-7de86338cd6e)
 
 
 
@@ -137,7 +137,7 @@ EDA involved exploring the sales data to answer few questions such as:
 
 
 
-![Bottom3Salesman](https://github.com/user-attachments/assets/c12b924b-1aea-44a9-92c3-48e4f1e96cbe)
+  ![Bottom3Salesman](https://github.com/user-attachments/assets/c12b924b-1aea-44a9-92c3-48e4f1e96cbe)
 
 ### Results/Findings
 ---
